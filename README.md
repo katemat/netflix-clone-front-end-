@@ -1,9 +1,22 @@
 # Netflix Clone (Front End)
 
-## Technologies used:
+[Live DEMO](https://netflix-clone-de8da.web.app)
+
+## Technologies/Tools used:
 
 - 🚀 React.js
 - 🔥 Deployed with Firebase Hosting
+- 🎦[TMDB API](https://www.themoviedb.org/)
+
+## Dependencies used:
+
+- [axios](https://www.npmjs.com/package/axios)
+- [react-youtube](https://www.npmjs.com/package/react-youtube)
+- [movie-trailer](https://www.npmjs.com/package/movie-trailer)
+
+---
+
+### NB: The Project is created for educational purposes only.
 
 ---
 
