@@ -1,3 +1,12 @@
+# Netflix Clone (Front End)
+
+## Technologies used:
+
+- 🚀 React.js
+- 🔥 Deployed with Firebase Hosting
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
